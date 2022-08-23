@@ -1,9 +1,13 @@
 # ts-example
 
 first yarn install
+
 second set .env
+
 dev_db_url = "" //set mongodb url after mongodb+srv://
+
 port = 4000
+
 server_name = "localhost"
 
 
@@ -18,4 +22,4 @@ third npx nodemon or nodemon
   
   
   for test cases 
-  1) RUN nom run test
+  1) RUN npm run test
